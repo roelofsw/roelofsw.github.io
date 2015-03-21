@@ -4,7 +4,7 @@ name: flintbox.me
 description: Roelof Swanepoel's tinkering blog
 
 # url is currently only used only for the RSS feed in feed.xml
-url: http://roelofsw.github.io
+url: http://blog.flintbox.me
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
