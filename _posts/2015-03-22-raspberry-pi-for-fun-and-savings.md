@@ -17,7 +17,7 @@ There, I've said it.  Useful and revolutionary as it is, cloud based servers sti
 
 **_Electricity is expensive_**
 
-Gone are the days where thinking about your electrical bill is a distant afterthought when running computer hardware.  In Queensland, 'normal' residential electricity is now billed at around A$0.27/kWh.  Running a full size headless box (~100W idling), comfortably costs in excess of A$250/year.
+Gone are the days where thinking about your electrical bill is a distant afterthought when running computer hardware.  In Queensland, 'normal' residential electricity is now billed at around A$0.27/kWh.  Running a full size headless box (~100W idling), comfortably costs in excess of A$250/year.  Apart from being expensive, it is also a waste of resources, and bad for the environment.
 
 ---
 
@@ -36,7 +36,7 @@ How much can I run on a Raspberry Pi, considering it sports somewhat 'limited' h
  * Redmine
  * Linux Dash
  * A local ubuntu & debian repository
-* Dokuwiki
+ * Dokuwiki
 * NTP server (based on a Freetronics RTC)
 * apt-mirror
 * OpenVPN
@@ -53,7 +53,7 @@ On my to-do list are:
 
 ---
 
-I will be posting a series of entries on this topic, covering a number of items like security (login credentials, running a VPN, etc), accessibility issues (commandline and web based services) and self hosted services (in areas like general productivity and software development).  Initially, my focus will be on security and productivity, more than sharing or hosting things for other people to see.  However, but the latter is certainly possible without compromising the first too much.
+I will be posting a series of entries on this topic, covering a number of items like security (login credentials, running a VPN, etc), accessibility issues (commandline and web based services) and self hosted services (in areas like general productivity and software development).  Initially, my focus will be on security and productivity, more than sharing or hosting things for other people to see.  However, the latter is certainly possible without compromising the former too much.
 
 Hopefully, it will inspire others to do the same (once they see that it's actually not hard), and I hope to add some value by automating some processes, or making services easier to deploy.
 
